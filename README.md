@@ -1,86 +1,147 @@
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Francis;Code.+Law.+Impact." alt="Typing SVG" />
-</h1>
-
+<!-- Header -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Software_Engineer-00AA88?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLB_(Hons)-Law_Geek-2D2E7E?style=for-the-badge&logo=scales&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kampala-Uganda-FFD700?style=for-the-badge&logo=map&logoColor=black" />
+
+```
+███████╗██████╗  █████╗ ███╗   ██╗ ██████╗██╗███████╗
+██╔════╝██╔══██╗██╔══██╗████╗  ██║██╔════╝██║██╔════╝
+█████╗  ██████╔╝███████║██╔██╗ ██║██║     ██║███████╗
+██╔══╝  ██╔══██╗██╔══██║██║╚██╗██║██║     ██║╚════██║
+██║     ██║  ██║██║  ██║██║ ╚████║╚██████╗██║███████║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝╚══════╝
+```
+
+### `> whoami`
+**Software Engineer · Team Lead · Fintech Builder · Legal Mind**
+
+*Kampala, Uganda 🇺🇬*
+
+[![Email](https://img.shields.io/badge/Gmail-byaruhangafrancis23%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:byaruhangafrancis23@gmail.com)
+[![Phone](https://img.shields.io/badge/Call-%2B256%20786760715-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+256786760715)
+
 </div>
 
-## ⚡ Code. Litigate. Iterate.
+---
 
-> *"From legal arguments to clean architecture – I build systems that stand up in court and in production."*
+## `> cat about.txt`
 
-I'm a **fullstack engineer** with a law degree, bridging **FinTech**, **InsurTech**, and **LegalTech**.  
-Currently leading a team at **Old Mutual Uganda** – turning claims processing latency from 6s → 3s.  
-I design with empathy, deploy with CI/CD, and debug with a lawyer's eye for detail.
+```yaml
+name: Francis Byaruhanga
+role: Software Engineer & Team Lead
+location: Kampala, Uganda
+domains:
+  - Fintech
+  - Insur-Tech
+  - Legal Tech
+approach: Design Thinking → Practical Solutions
+current_mission: Building the future of insurance claims @ Old Mutual Uganda
+fun_fact: "I started as a lawyer. Then I discovered you can build the law."
+status: "Actively engineering. Always learning."
+```
 
 ---
 
-## 🧠 Tech Stack
+## `> ls -la ./tech-stack`
 
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
+<div align="center">
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+**⚡ Frontend**
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### DevOps & Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=googleworkspace&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?logo=microsoft&logoColor=white)
+**🗄️ Databases**
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🚀 Featured Project
+**🔧 Backend**
 
-### Automated Claims Processing System (Old Mutual)  
-*Team Lead | 2025 – present*
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-- Led 4 engineers from user research → production deployment  
-- Designed 25+ UI/UX screens for client claims portal  
-- Built dynamic claim forms with React + NestJS  
-- Optimised latency: **6s → 3s**  
-- CI/CD pipeline rescue – fixed broken deployments to live environment  
+**🚀 DevOps**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-## 📜 Credentials
+## `> cat experience.log`
 
-- **Fullstack Software Engineering Apprenticeship** – Refractory Academy (2025–2026)  
-- **LLB (Hons)** – Uganda Christian University (2020–2024)  
+```
+[2025-PRESENT] ── TEAM LEAD @ Old Mutual Uganda Ltd
+                  ├── Led 4-engineer squad to ship Automated Claims Processing System
+                  ├── Designed 25+ UI/UX screens for the client-facing claims portal
+                  ├── Cut system latency from ~6s → <3s (50% improvement)
+                  ├── Built dynamic claims forms for seamless online submissions
+                  ├── Fixed broken frontend CI/CD pipelines to restore live deployments
+                  └── Interfaced directly with Old Mutual stakeholders & conducted demos
 
-### 🏅 Badges & Certifications
-- Stanbic National Schools University Scholarship (2020–2024)  
-- Aspire Leaders Program (2024)  
-- ALX Professional Foundations (2025)  
-- Certificate in Software Engineering with JavaScript (2023)  
+[2025-2026]    ── FULLSTACK ENGINEERING APPRENTICE @ Refactory Academy Uganda
+
+[2020-2024]    ── LLB (HONS) IN LAW @ Uganda Christian University, Mukono
+```
+
+---
+
+## `> cat ./awards-and-certs/*.txt`
+
+```
+🏆  Stanbic National Schools University Scholarship   [2020 - 2024]
+🎓  Aspire Leaders Program Certification              [2024]
+⚡  ALX Professional Foundations Program              [2025]
+💻  Certificate in Software Engineering (JavaScript)  [2023]
+```
 
 ---
 
-## 🔗 Let's connect
+## `> ./soft-skills --list`
 
-[![Email](https://img.shields.io/badge/bayurahangafrancis23%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:bayurahangafrancis23@gmail.com)
-[![Phone](https://img.shields.io/badge/+256%20786760715-25D366?logo=whatsapp&logoColor=white)](tel:+256786760715)
+```bash
+$ running skills audit...
 
-> *“Pragmatic, dynamic, and proactive – design thinking meets clean code.”*
+✔  Leadership           [████████████████████] 100%
+✔  Team Work            [████████████████████] 100%
+✔  Critical Thinking    [████████████████████] 100%
+✔  Communication        [████████████████████] 100%
+✔  Creativity           [████████████████████] 100%
+✔  Public Speaking      [████████████████████] 100%
+
+All checks passed. Human.exe is running optimally.
+```
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=francisbayurahanga&label=Profile+Views&color=00AA88&style=flat" alt="profile views" />
-</p>
 
+## `> git log --oneline --graph`
+
+```
+* 🔥 feat: shipped Automated Claims System for Old Mutual Uganda
+* ⚡ perf: halved API latency with targeted optimisations  
+* 🎨 design: crafted 25-screen UX journey for claims portal
+* 🔧 fix: resolved broken CI/CD pipeline, restored live deployments
+* 📐 feat: built dynamic claims forms for online submission flow
+* 🧠 init: degree in Law — unlocked legal reasoning superpower
+```
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────┐
+│  "I leverage design thinking to curate & implement  │
+│   practical, tech-driven solutions."                │
+│                                    — Francis, 2026  │
+└─────────────────────────────────────────────────────┘
+```
+
+*Built with curiosity. Powered by coffee. Deployed to production.* ☕
+
+</div>
