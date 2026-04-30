@@ -96,7 +96,7 @@ status: "Actively engineering. Always learning."
 ```
 🏆  Stanbic National Schools University Scholarship   [2020 - 2024]
 🎓  Aspire Leaders Program Certification              [2024]
-⚡  ALX Professional Foundations Program              [2025]
+⚡   ALX Professional Foundations Program              [2025]
 💻  Certificate in Software Engineering (JavaScript)  [2023]
 ```
 
